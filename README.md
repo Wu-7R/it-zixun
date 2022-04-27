@@ -1,4 +1,4 @@
-# demo-toutiao
+# 移动端黑马头条简易项目
 
 ## Project setup
 ```
